@@ -1,0 +1,34 @@
+{
+    "name": "NPC",
+    "maps": [
+        {
+            "name": "Mensaje",
+            "id": "624501f6-97b7-43f2-849d-579394d4bb19",
+            "actions": [
+                {
+                    "name": "New action",
+                    "type": "Button",
+                    "id": "c735f2a0-7e68-4e34-aa86-9b5ab76f879a",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "5c44396b-cb76-42c3-a280-19769d3c3d52",
+                    "path": "<Keyboard>/enter",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "New action",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
